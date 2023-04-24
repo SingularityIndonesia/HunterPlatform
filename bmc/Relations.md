@@ -1,0 +1,4 @@
+- Orang-orang memerlukan bantuan dalam menjalankan micro task, sehingga mereka bisa berfokus pada Productive task.
+- Banyak orang memerlukan pemasukan tambahan yang dapat dikerjakan sewaktu luang baik dengan skill khusus atau tidak memerlukan skill khusus.
+- Orang dengan skill khusus memerlukan media trading baik untuk skill mereka ataupun produk mereka.
+- 

@@ -1,0 +1,8 @@
+- General Microtask Platform
+- Skill Trading Platform
+- Skill Gathering Platform
+- Comunity Development
+- Assets Trading Center
+- Peminjaman / Penyewaan yang aman
+- Entertaiment
+- 

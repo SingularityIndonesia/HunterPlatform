@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"bmc/Relations.md","id":"cb18250ccc3ab1d0","x":90,"y":-840,"width":450,"height":520},
+		{"type":"file","file":"bmc/Values.md","id":"65324e76f7fc0480","x":-380,"y":-840,"width":470,"height":1040},
+		{"type":"file","file":"bmc/Channels.md","id":"62b4078eaf979015","x":90,"y":-320,"width":450,"height":520},
+		{"type":"file","file":"bmc/Activities.md","id":"1081b37949dad060","x":-830,"y":-840,"width":450,"height":520},
+		{"type":"file","file":"bmc/Resources.md","id":"79aa4ec7e5f8a446","x":-830,"y":-320,"width":450,"height":520},
+		{"type":"file","file":"bmc/Partners.md","id":"b89edf1d1217a65d","x":-1280,"y":-840,"width":450,"height":1040},
+		{"type":"file","file":"bmc/Customers.md","id":"def006180a914f20","x":540,"y":-840,"width":450,"height":1040},
+		{"type":"file","file":"bmc/Cost.md","id":"f18a1b58480f559a","x":-1280,"y":200,"width":1135,"height":520},
+		{"type":"file","file":"bmc/Income.md","id":"4b258a65a2da8056","x":-145,"y":200,"width":1135,"height":520},
+		{"type":"file","file":"bmc/Quest Hunter - Micro Task Platform.md","id":"19f04e48a1dc95b7","x":-1280,"y":-960,"width":640,"height":80}
+	],
+	"edges":[]
+}

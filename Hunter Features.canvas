@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"file","file":"hunter/Hunter.md","id":"ea7f15cac0b687c1","x":-100,"y":-640,"width":250,"height":60},
+		{"type":"file","file":"hunter/Take a Quest.md","id":"cbe5f076e573e2b2","x":-1020,"y":-340,"width":250,"height":100},
+		{"type":"file","file":"hunter/Mendapatkan Item.md","id":"ce31213a68e30501","x":-1340,"y":-55,"width":260,"height":90},
+		{"type":"file","file":"hunter/Naik Level.md","id":"4782b9c4bd18d9b8","x":-830,"y":-55,"width":250,"height":50},
+		{"type":"file","file":"hunter/Join or Create a Guild.md","id":"a0775efa9bd7533b","x":-145,"y":-360,"width":280,"height":100},
+		{"type":"file","file":"hunter/Diskon Pembelian Item.md","id":"1a016b7617953752","x":-770,"y":300,"width":250,"height":140},
+		{"type":"file","file":"hunter/Penyewaan Item Lebih Murah.md","id":"39975bf62a8f173b","x":-270,"y":300,"width":250,"height":140},
+		{"type":"file","file":"hunter/Asuransi Guild.md","id":"bf9b2fcd743240af","x":-440,"y":-60,"width":250,"height":100},
+		{"type":"file","file":"hunter/Mengikuti Event.md","id":"a88a9f5f4b2130e8","x":355,"y":-60,"width":250,"height":100},
+		{"type":"file","file":"hunter/Menyewakan Item.md","id":"162163ec41f111d3","x":230,"y":300,"width":250,"height":100},
+		{"type":"file","file":"hunter/Join or Create Party.md","id":"60b6147fa357ebbb","x":480,"y":-340,"width":250,"height":140},
+		{"type":"file","file":"hunter/Menjual Item.md","id":"474e7195b844851b","x":-60,"y":-60,"width":250,"height":100}
+	],
+	"edges":[
+		{"id":"aa7853de980385e0","fromNode":"ea7f15cac0b687c1","fromSide":"bottom","toNode":"cbe5f076e573e2b2","toSide":"top"},
+		{"id":"f07d20090b97ac70","fromNode":"ea7f15cac0b687c1","fromSide":"bottom","toNode":"a0775efa9bd7533b","toSide":"top"},
+		{"id":"ba0f69c7168ab03b","fromNode":"ea7f15cac0b687c1","fromSide":"bottom","toNode":"60b6147fa357ebbb","toSide":"top"},
+		{"id":"50aa7a320f6bee8d","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"39975bf62a8f173b","toSide":"top"},
+		{"id":"a7b5bd968b65238d","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"474e7195b844851b","toSide":"top"},
+		{"id":"1417678b7feb9a7e","fromNode":"60b6147fa357ebbb","fromSide":"bottom","toNode":"a88a9f5f4b2130e8","toSide":"top"},
+		{"id":"37478187d907f252","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"bf9b2fcd743240af","toSide":"top"},
+		{"id":"17d906e160add452","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"162163ec41f111d3","toSide":"top"},
+		{"id":"de5457b2fdac4417","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"a88a9f5f4b2130e8","toSide":"top"},
+		{"id":"5fb26c611b19a97b","fromNode":"cbe5f076e573e2b2","fromSide":"bottom","toNode":"4782b9c4bd18d9b8","toSide":"top"},
+		{"id":"33b0d54c2c02a5c3","fromNode":"cbe5f076e573e2b2","fromSide":"bottom","toNode":"ce31213a68e30501","toSide":"top"},
+		{"id":"6c03eb737bef55a4","fromNode":"a0775efa9bd7533b","fromSide":"bottom","toNode":"1a016b7617953752","toSide":"top"}
+	]
+}

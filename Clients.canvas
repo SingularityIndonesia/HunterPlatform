@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"64fcf9db29193887","x":-100,"y":-280,"width":250,"height":60,"type":"file","file":"client/Client.md"},
+		{"id":"6cfd7ad420ea474e","x":-100,"y":-100,"width":250,"height":60,"type":"file","file":"client/Buy Item.md"},
+		{"id":"588202fb27c66aa7","x":220,"y":-100,"width":250,"height":60,"type":"file","file":"client/Sewa Item.md"},
+		{"id":"8f7dd535e72e15ba","x":-410,"y":-100,"width":250,"height":100,"type":"file","file":"client/Membuat Quest.md"},
+		{"id":"578e5b07ef35371b","x":-410,"y":40,"width":250,"height":100,"type":"file","file":"client/Mendapatkan Reward.md"}
+	],
+	"edges":[
+		{"id":"fe4933810e2bb734","fromNode":"64fcf9db29193887","fromSide":"bottom","toNode":"8f7dd535e72e15ba","toSide":"top"},
+		{"id":"9230008c7a01c4ef","fromNode":"8f7dd535e72e15ba","fromSide":"bottom","toNode":"578e5b07ef35371b","toSide":"top"},
+		{"id":"ffdcc8d99478fff2","fromNode":"64fcf9db29193887","fromSide":"bottom","toNode":"6cfd7ad420ea474e","toSide":"top"},
+		{"id":"8b0a38a5bd351a63","fromNode":"64fcf9db29193887","fromSide":"bottom","toNode":"588202fb27c66aa7","toSide":"top"}
+	]
+}
